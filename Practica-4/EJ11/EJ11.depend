@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696944260 source:/media/alumnos/Panchoto/C/Prac-4/EJ11/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1696944260 source:/home/alumnos/Escritorio/C/Prac-4/EJ11/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

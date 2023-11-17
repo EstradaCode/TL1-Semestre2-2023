@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698760645 source:/home/alumnos/Escritorio/C/Practica6/EJ8/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696709735 source:/home/francisco/Escritorio/Dev-Learning/C/Prac-4/EJ8/main.c
+	<stdio.h>
+	<stdlib.h>
+

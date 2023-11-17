@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1698605353 source:/home/francisco/Escritorio/Dev-Learning/C/Practica6/EJ11/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698754710 source:/home/alumnos/Escritorio/C/Practica6/EJ11/DICCIONARIO.C
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DICCIONARIO.H"
+
+1698754719 /home/alumnos/Escritorio/C/Practica6/EJ11/DICCIONARIO.H
+	<string.h>
+
+1698605352 source:/home/alumnos/Escritorio/C/Practica6/EJ11/main.c
+	<stdio.h>
+	<stdlib.h>
+

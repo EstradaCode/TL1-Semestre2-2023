@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1698539767 source:/home/francisco/Escritorio/Dev-Learning/C/Practica6/EJ10/main.c
+	<stdio.h>
+	<stdlib.h>
+	"istack.h"
+
+1698539677 /home/francisco/Escritorio/Dev-Learning/C/Practica6/EJ10/istack.h
+
+1698754676 source:/home/alumnos/Escritorio/C/Practica6/EJ10/main.c
+	<stdio.h>
+	<stdlib.h>
+	"istack.h"
+
+1698754671 /home/alumnos/Escritorio/C/Practica6/EJ10/istack.h
+
+1698754642 source:/home/alumnos/Escritorio/C/Practica6/EJ10/istack.c
+	"istack.h"
+	<stdio.h>
+	<stdlib.h>
+

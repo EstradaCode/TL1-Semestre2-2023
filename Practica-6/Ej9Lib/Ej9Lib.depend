@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698500708 source:/home/francisco/Escritorio/Dev-Learning/C/Practica6/Ej9Lib/main.c
+	<stdio.h>
+	<stdlib.h>
+	"imath.h"
+
+1698500752 /home/francisco/Escritorio/Dev-Learning/C/Practica6/Ej9Lib/imath.h
+

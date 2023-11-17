@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697720035 source:/home/alumnos/Escritorio/TL1/Practica5/EJ3/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697720034 source:/home/francisco/Escritorio/Dev-Learning/C/Practica5/EJ3/main.c
+	<stdio.h>
+	<stdlib.h>
+

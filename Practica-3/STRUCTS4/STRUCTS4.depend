@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695327716 source:/home/francisco/Escritorio/Dev-Learning/C/Practica-3/STRUCTS4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

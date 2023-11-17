@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696946286 source:/home/alumnos/Escritorio/C/Prac-4/ej12/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

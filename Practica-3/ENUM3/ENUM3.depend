@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695677823 source:/home/francisco/Escritorio/Dev-Learning/C/Practica-3/ENUM3/main.c
+	<stdio.h>
+	<stdlib.h>
+
